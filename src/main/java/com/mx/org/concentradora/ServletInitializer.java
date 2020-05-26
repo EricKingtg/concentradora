@@ -1,4 +1,4 @@
-package com.mx.org.b.concentradora;
+package com.mx.org.concentradora;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

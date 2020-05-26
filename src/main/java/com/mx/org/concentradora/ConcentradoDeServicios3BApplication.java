@@ -1,4 +1,4 @@
-package com.mx.org.b.concentradora;
+package com.mx.org.concentradora;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
