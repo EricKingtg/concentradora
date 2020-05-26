@@ -1,4 +1,4 @@
-package com.mx.org.b.concentradora.entity;
+package com.mx.org.concentradora.entity;
 
 public class Usuarios {
 
