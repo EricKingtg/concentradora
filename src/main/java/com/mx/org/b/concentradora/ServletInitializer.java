@@ -7,6 +7,7 @@ public class ServletInitializer extends SpringBootServletInitializer {
 
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+		System.setProperty("server.servlet.context-path", "/concentradora");
 		return application.sources(ConcentradoDeServicios3BApplication.class);
 	}
 
