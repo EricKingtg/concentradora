@@ -1,4 +1,4 @@
-package com.mx.org.b.concentradora;
+package com.mx.org.concentradora;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
